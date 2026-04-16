@@ -192,8 +192,6 @@ print(result["tweet"])
 print("\n=== ITERATIONS ===", result["iteration"])
 
 
-
-```python id="iterative-graph-002"
 """
 LangGraph Iterative Workflow (Generate → Evaluate → Improve → Loop)
 
@@ -440,7 +438,6 @@ This pattern is used in:
 • AI agents with self-correction  
 • RL-style feedback loops  
 • Prompt refinement systems  
-
 
 ------------------------------------------------------------
 Key Takeaway
